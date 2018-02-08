@@ -3,7 +3,7 @@
 https://www.udemy.com/xamarin-forms-course/learn/v4/overview
 
 ## Getting Started
-## XAML Essentials## 
+## XAML Essentials 
 ## Layouts
 ## Images
 ## Lists
